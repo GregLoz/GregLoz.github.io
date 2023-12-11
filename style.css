@@ -1,0 +1,35 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #FF0000;
+font-family: Helvetica, sans-serif;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: 	#F5F5F5;
+}
+
+img {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+a:link {
+  text-decoration: none;
+  font-size: 35px;
+  text-align: left;
+  color: 	#0000CD;
+  font-weight: bold;
+}
+
+a:hover{
+   text-decoration: underline;
+   color: #FF0000;
+}
